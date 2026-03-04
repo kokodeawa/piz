@@ -1,0 +1,5 @@
+{
+  "name": "Pizarra Matemática Inteligente",
+  "description": "Una pizarra interactiva para enseñar matemáticas con reconocimiento inteligente de números, herramientas de dibujo, formas y sistema de suavizado de trazo.",
+  "requestFramePermissions": []
+}
